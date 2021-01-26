@@ -3,7 +3,7 @@ These pages hold original data collected for experiments reported in our paper e
 **An Online Gait Phase Detection Method Based on DWT-MEAN Templates**.
 We provide the data publicly for other researchers in the same field get benefited.
 # Data
-The folder 'Data' includes all the experiments involved in the paper, for both training and testing data, it uses Matlab format. In testing data file, there are mainly two types of the files, one is the data file to be tested ending with the suffix .mat and another one is gait phase detection results with the suffix .fig for four states, which are the initial off-ground (IOff), the off-ground (Off), the initial on-ground (IOn), and the on-ground (On) states in a complete gait cycle. The columns of the .mat file are defined as follows:
+The folder 'Data' includes all the experiments involved in the paper, for both training and testing data, it mainly uses Matlab format. In testing data file, there are mainly two types of the files, one is the data file to be tested ending with the suffix .mat and another one is gait phase detection results with the suffix .fig for four states, which are the initial off-ground (IOff), the off-ground (Off), the initial on-ground (IOn), and the on-ground (On) states in a complete gait cycle. The columns of the .mat file are defined as follows:
 * time, in second
 * Left GCFs(The sum of the GCFs of the left heel and ball), in N
 * Right GCFs(The sum of the GCFs of the right heel and ball), in N
