@@ -1,4 +1,4 @@
-# Gait-phase
+# Gait-phase-detection
 These pages hold original data collected for experiments reported in our paper entiled
 **An Online Gait Phase Detection Method Based on DWT-MEAN Templates**.
 We provide the data publicly for other researchers in the same field get benefited.
