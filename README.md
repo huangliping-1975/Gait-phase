@@ -1,6 +1,6 @@
 # Gait-phase-detection
 These pages hold original data collected for experiments reported in our paper entiled
-**An Online Gait Phase Detection Method Based on DWT-MEAN Templates**.
+**An Gait Phase Detection Method Based on DWT-MEAN Templates**.
 We provide the data publicly for other researchers in the same field get benefited.
 # DTWMean
 The folder 'DTWMean' includes Source code also available at http://www.akt.tu-berlin.de/menue/software (Java source code)
