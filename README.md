@@ -1,6 +1,6 @@
 # Gait-phase-detection
-These pages hold original data collected for experiments reported in our paper entiled
-**Online Gait Phase Detection in Complex Environment Based on Distance and Multi-Sensors Information Fusion Using Inertial Measurement Units**.
+These pages hold original data collected for experiments reported in our paper about
+**Online Gait Phase Detection in Complex Environment **.
 We provide the data publicly for other researchers in the same field get benefited.
 # DTWMean
 The folder 'DTWMean' includes Source code also available at http://www.akt.tu-berlin.de/menue/software (Java source code)
