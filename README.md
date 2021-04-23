@@ -1,6 +1,6 @@
 # Gait-phase-detection
 These pages hold original data collected for experiments reported in our paper entiled
-**An Gait Phase Detection Method in Complex Envirment Based on DWT-MEAN Templates**.
+**Online Gait Phase Detection in Complex Environment Based on Distance and Multi-Sensors Information Fusion Using Inertial Measurement Units**.
 We provide the data publicly for other researchers in the same field get benefited.
 # DTWMean
 The folder 'DTWMean' includes Source code also available at http://www.akt.tu-berlin.de/menue/software (Java source code)
@@ -18,4 +18,4 @@ Other useful informations are included in these .ini files:
 * The detection time point of each state that are the sequential detection of the off-ground state , the initial on-ground state marked , the on-ground state , and the initial off-ground state.
 
 # Results
-The results show that the method can adaptively detect the gait phase in real time for different terrains and different payloads while walking at different speed compared with the reference methods, and gait phase detection can gain better detection results and the overall accuracy reaches about 95%.
+The results show that the method can adaptively detect the gait phase in real time for different terrains and different payloads while walking at different speeds. Our proposed method can gain over 95% accuracy and time difference is 4.99±15.05ms
